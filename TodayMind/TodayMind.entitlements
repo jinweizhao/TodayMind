@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.todaymind.share</string>
+		<string>group.com.Carduo.develop</string>
 	</array>
 </dict>
 </plist>

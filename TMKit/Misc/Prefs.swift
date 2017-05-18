@@ -11,7 +11,7 @@ import Foundation
 /// Shared preferences between extensions and main app
 public class Prefs {
   
-  public static let shared = UserDefaults(suiteName: "group.todaymind.share")!
+  public static let shared = UserDefaults(suiteName: "group.com.Carduo.develop")!
   
   private struct Keys {
     static let WidgetWidth = "widget.width"

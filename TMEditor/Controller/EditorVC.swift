@@ -45,7 +45,7 @@ class EditorVC: SLComposeViewController {
   ///
   /// - Returns: SLComposeViewController
   static func extensionEditor() -> SLComposeViewController {
-    if let editor = SLComposeViewController(forServiceType: "app.cyan.todaymind.todayeditor") {
+    if let editor = SLComposeViewController(forServiceType: "com.jwz.todaymind.TodayEditor") {
       return editor
     } else {
       return EditorVC()
